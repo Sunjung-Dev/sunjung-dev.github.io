@@ -1,6 +1,6 @@
 ---
-category: [design] #Category ID.
+category: [codinigTest] #Category ID.
 hue: var(--c-themeHueOrange) #Category hue. See note [1].
-title: Design #Category title.
-description: Lorem ipsum dolor sit amet.
+title: codingTest #Category title.
+description: Solving the coingTest and Studying algorithm! 
 ---
