@@ -2,9 +2,8 @@
 layout: post
 title:  "The First post!"
 date:   2023-03-17 18:50:36 +0900
-categories: codinigTest
+category: ETC
 ---
-
 
 The first post!! 
 This is Just TEST 
