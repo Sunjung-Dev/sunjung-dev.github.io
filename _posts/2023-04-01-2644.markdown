@@ -1,0 +1,14 @@
+---
+layout: post
+title:  백준[촌수계산]
+date:   2023-04-01 00:30:36 +0900
+category: CodingTest
+---
+
+이문제에서 주어진 두 사람의 촌수를 계산하는 프로그램을 작성하라고 했기 때문에 DFS 알고리즘으로 풀어야겠다고 생각했다. 
+
+실버2는 처음 풀어보긴 하는데 생각보다 쉽게 풀리는듯(?) 했으나 역시나 막혀버렸다 ... :+1:
+
+### 1차 도전
+
+<script src="https://gist.github.com/Sunjung-Dev/8b02bdea041dedab27466d34499ae1b5.js"></script>

@@ -21,3 +21,7 @@ defaults:
       type: category
     values:
       layout: "category"
+
+        # Plugins (previously gems:)
+plugins:
+  - jemoji
