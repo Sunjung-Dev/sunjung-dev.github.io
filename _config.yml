@@ -1,0 +1,34 @@
+title: Sunjung-Dev
+author: Sunjung-Dev
+email: sun17789@naver.com
+description: >
+  This is Sunjung-Dev
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-redirect-from
+
+minima_reboot:
+  date_format: "%b %-d, %Y"
+  date_format_short: "%b %-d"
+
+header_pages:
+- about.md
+- posts.md
+- github.md
+
+footer_icons:
+- username: Sunjung-Dev
+  url: https://github.com/Sunjung-Dev/
+  icon: icon-github.svg
+
+paginate: 5
+
+markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - minima-reboot.gemspec
